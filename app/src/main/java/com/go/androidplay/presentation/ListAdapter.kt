@@ -1,11 +1,10 @@
-package com.go.androidplay.view
+package com.go.androidplay.presentation
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.LinearLayout
 import android.widget.TextView
-import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.go.androidplay.R
 import com.go.androidplay.viewmodel.ItemClickInterface

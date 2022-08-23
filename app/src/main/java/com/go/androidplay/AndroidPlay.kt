@@ -6,7 +6,7 @@ import android.widget.Toast
 import androidx.recyclerview.widget.DefaultItemAnimator
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.go.androidplay.view.RecyclerItemListAdapter
+import com.go.androidplay.presentation.RecyclerItemListAdapter
 import com.go.androidplay.viewmodel.ItemClickInterface
 
 class AndroidPlay : AppCompatActivity() {
